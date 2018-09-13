@@ -1,0 +1,31 @@
+#surefire
+#Thu Sep 13 00:07:51 BRT 2018
+testClassesDirectory=C\:\\Users\\Dell E5410\\Documents\\NetBeansProjects\\SELECAO_CANDIDATOS_TI\\target\\test-classes
+classPathUrl.4=C\:\\Users\\Dell E5410\\.m2\\repository\\org\\jboss\\spec\\javax\\interceptor\\jboss-interceptors-api_1.1_spec\\1.0.1.Final\\jboss-interceptors-api_1.1_spec-1.0.1.Final.jar
+forkMode=once
+classPathUrl.3=C\:\\Users\\Dell E5410\\.m2\\repository\\javax\\enterprise\\cdi-api\\1.0-SP4\\cdi-api-1.0-SP4.jar
+classPathUrl.2=C\:\\Users\\Dell E5410\\.m2\\repository\\org\\hibernate\\javax\\persistence\\hibernate-jpa-2.0-api\\1.0.1.Final\\hibernate-jpa-2.0-api-1.0.1.Final.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\Users\\Dell E5410\\Documents\\NetBeansProjects\\SELECAO_CANDIDATOS_TI\\target\\classes
+reportsDirectory=C\:\\Users\\Dell E5410\\Documents\\NetBeansProjects\\SELECAO_CANDIDATOS_TI\\target\\surefire-reports
+classPathUrl.0=C\:\\Users\\Dell E5410\\Documents\\NetBeansProjects\\SELECAO_CANDIDATOS_TI\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\Dell E5410\\Documents\\NetBeansProjects\\SELECAO_CANDIDATOS_TI\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\Dell E5410\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.10\\surefire-api-2.10.jar
+surefireClassPathUrl.0=C\:\\Users\\Dell E5410\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.10\\surefire-junit3-2.10.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+includes2=**/*TestCase.java
+enableAssertions=true
+includes1=**/*Test.java
+failIfNoTests=false
+includes0=**/Test*.java
+classPathUrl.10=C\:\\Users\\Dell E5410\\.m2\\repository\\org\\jboss\\spec\\javax\\faces\\jboss-jsf-api_2.1_spec\\2.0.9.Final\\jboss-jsf-api_2.1_spec-2.0.9.Final.jar
+classPathUrl.9=C\:\\Users\\Dell E5410\\.m2\\repository\\org\\jboss\\spec\\javax\\servlet\\jboss-servlet-api_3.0_spec\\1.0.2.Final\\jboss-servlet-api_3.0_spec-1.0.2.Final.jar
+classPathUrl.8=C\:\\Users\\Dell E5410\\.m2\\repository\\org\\jboss\\spec\\javax\\ejb\\jboss-ejb-api_3.1_spec\\1.0.2.Final\\jboss-ejb-api_3.1_spec-1.0.2.Final.jar
+classPathUrl.7=C\:\\Users\\Dell E5410\\.m2\\repository\\javax\\annotation\\jsr250-api\\1.0\\jsr250-api-1.0.jar
+childDelegation=false
+classPathUrl.6=C\:\\Users\\Dell E5410\\.m2\\repository\\mysql\\mysql-connector-java\\5.1.47\\mysql-connector-java-5.1.47.jar
+classPathUrl.5=C\:\\Users\\Dell E5410\\.m2\\repository\\javax\\inject\\javax.inject\\1\\javax.inject-1.jar

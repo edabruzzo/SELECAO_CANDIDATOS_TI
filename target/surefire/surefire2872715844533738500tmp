@@ -1,0 +1,8 @@
+#surefire
+#Thu Sep 13 00:07:51 BRT 2018
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\Dell E5410\\Documents\\NetBeansProjects\\SELECAO_CANDIDATOS_TI
+file.encoding=UTF-8
+localRepository=C\:\\Users\\Dell E5410\\.m2\\repository
+netbeans.deploy=true
+basedir=C\:\\Users\\Dell E5410\\Documents\\NetBeansProjects\\SELECAO_CANDIDATOS_TI
